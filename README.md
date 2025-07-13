@@ -1,7 +1,5 @@
 # 💀 Diavolo's Eternal Suffering 💀
 
-![Death Loop](https://user-images.githubusercontent.com/your-placeholder.gif)
-
 > **"You will never reach the truth."**  
 > — Gold Experience Requiem
 
@@ -23,7 +21,7 @@
 
 ## 📦 Live Demo
 
-[View on GitHub Pages](https://yourusername.github.io/diavolo-eternal-suffering)
+[View on GitHub Pages](https://thethreatner.github.io/diavolo-death-counter/)
 
 ---
 
